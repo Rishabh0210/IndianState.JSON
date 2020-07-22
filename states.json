@@ -1,115 +1,226 @@
 {
     "states" : [
         {
-            "name" :"Andaman and Nicobar Islands"
+            "Andaman and Nicobar": {
+                "latitude" : 11.7400867,
+                "longitude" : 92.6586401
+            }
         },
         {
-            "name" :"Andhra Pradesh"
+            "Andhra Pradesh": {
+                "latitude" : 16.500000, 
+                "longitude" : 80.640000
+            }
         },
         {
-            "name" :"Arunachal Pradesh"
+            "Arunachal Pradesh": {
+                "latitude" : 28.144516, 
+                "longitude" : 94.216787
+            }
         },
         {
-            "name" :"Assam"
+            "Assam": {
+                "latitude" : 26.140000, 
+                "longitude" : 91.770000
+            }
         },
         {
-            "name" :"Bihar"
+            "Bihar": {
+                "latitude" : 25.514775, 
+                "longitude" : 86.161110
+            }
         },
         {
-            "name" :"Chandigarh"
+            "Chandigarh": {
+                "latitude" : 30.750000, 
+                "longitude" : 76.783333
+            }
         },
         {
-            "name" :"Chhattisgarh"
+            "Chhattisgarh": {
+                "latitude" : 21.250000, 
+                "longitude" : 81.600000
+            }
         },
         {
-            "name" :"Dadra and Nagar Haveli"
+            "Dadra and Nagar Haveli and Daman": {
+                "latitude" : 20.224737, 
+                "longitude" : 73.029119
+            }
         },
         {
-            "name" :"Daman and Diu"
+            "Daman and Diu": {
+                "latitude" : 20.420000, 
+                "longitude" : 72.830000
+            }
         },
         {
-            "name" :"Delhi"
+            "Delhi": {
+                "latitude" : 28.610000, 
+                "longitude" : 77.230000
+            }
         },
         {
-            "name" :"Goa"
+            "Goa": {
+                "latitude" : 15.500000, 
+                "longitude" : 73.830000
+            }
         },
         {
-            "name" :"Gujarat"
+            "Gujarat": {
+                "latitude" : 23.216667, 
+                "longitude" : 72.683333
+            }
         },
         {
-            "name" :"Haryana"
+            "Haryana": {
+                "latitude" : 29.296007, 
+                "longitude" : 76.416585
+            }
         },
         {
-            "name" :"Himachal Pradesh"
+            "Himachal Pradesh": {
+                "latitude" : 31.103333, 
+                "longitude" : 77.172222
+            }
         },
         {
-            "name" :"Jammu and Kashmir"
+            "Jammu and Kashmir": {
+                "latitude" : 34.083656,
+                "longitude" : 74.797371
+            }
         },
         {
-            "name" :"Jharkhand"
+            "Jharkhand": {
+                "latitude" : 23.350000, 
+                "longitude" : 85.330000
+            }
         },
         {
-            "name" :"Karnataka"
+            "Karnataka": {
+                "latitude" : 12.970000, 
+                "longitude" : 77.500000
+            }
         },
         {
-            "name" :"Kerala"
+            "Kerala": {
+                "latitude" : 8.500000, 
+                "longitude" : 77.000000
+            }
         },
         {
-            "name" :"Ladakh"
+            "Ladakh" : {
+                "latitude" : 34.152588,
+                "longitude" : 77.577049
+            }
         },
         {
-            "name" :"Lakshadweep"
+            "Lakshadweep": {
+                "latitude" : 10.570000, 
+                "longitude" : 72.640000
+            }
         },
         {
-            "name" :"Madhya Pradesh"
+            "Madhya Pradesh": {
+                "latitude" : 23.178329, 
+                "longitude" : 77.103642
+            }
         },
         {
-            "name" :"Maharashtra"
+            "Maharashtra": {
+                "latitude" : 19.084492, 
+                "longitude" : 74.969302
+            }
         },
         {
-            "name" :"Manipur"
+            "Manipur": {
+                "latitude" : 24.786811, 
+                "longitude" : 93.922675
+            }
         },
         {
-            "name" :"Meghalaya"
+            "Meghalaya": {
+                "latitude" : 25.506854, 
+                "longitude" : 91.349940
+            }
         },
         {
-            "name" :"Mizoram"
+            "Mizoram": {
+                "latitude" : 23.216615, 
+                "longitude" : 92.826112
+            }
         },
         {
-            "name" :"Nagaland"
+            "Nagaland": {
+                "latitude" : 26.167237, 
+                "longitude" : 94.558892
+            }
         },
         {
-            "name" :"Odisha"
+            "Odisha": {
+                "latitude" : 20.667750, 
+                "longitude" : 84.900445
+            }
         },
         {
-            "name" :"Puducherry"
+            "Puducherry": {
+                "latitude" : 11.934616, 
+                "longitude" : 79.813654
+            }
         },
         {
-            "name" :"Punjab"
+            "Punjab": {
+                "latitude" : 30.890946, 
+                "longitude" : 75.411549
+            }
         },
         {
-            "name" :"Rajasthan"
+            "Rajasthan": {
+                "latitude" : 26.649201, 
+                "longitude" : 73.877157
+            }
         },
         {
-            "name" :"Sikkim"
+            "Sikkim": {
+                "latitude" : 27.551110, 
+                "longitude" : 88.453390
+            }
         },
         {
-            "name" :"Tamil Nadu"
+            "Tamil Nadu": {
+                "latitude" : 11.307863, 
+                "longitude" : 78.549031
+            }
         },
         {
-            "name" :"Telangana"
+            "Telangana": {
+                "latitude" : 17.983564, 
+                "longitude" : 79.309296
+            }
         },
         {
-            "name" :"Tripura"
+            "Tripura": {
+                "latitude" : 23.826631, 
+                "longitude" : 91.786627
+            }
         },
         {
-            "name" :"Uttar Pradesh"
+            "Uttar Pradesh": {
+                "latitude" : 26.829677, 
+                "longitude" : 81.089463
+            }
         },
         {
-            "name" :"Uttarakhand"
+            "Uttarakhand": {
+                "latitude" : 30.123657, 
+                "longitude" : 79.126249
+            }
         },
         {
-            "name":"West Bengal"
+            "West Bengal": {
+                "latitude" : 22.906991, 
+                "longitude" : 87.880687
+            }
         }
     ]
 }
